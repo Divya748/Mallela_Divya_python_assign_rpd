@@ -6,7 +6,7 @@
 3. install the required libraries using requirements.txt
 - command to install libraries in requirements.txt
   >pip install -r requirements.txt
-4. Go to data_base.py file change username and password for mysql connection
+4. Go to data_base.py file change \'**username**\' and \'**password**\' for mysql connection
 5. Run main.py file
 
 
